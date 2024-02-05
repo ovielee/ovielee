@@ -2,7 +2,7 @@
 
 Oviemuno Oke
 
-- 🔭 I’m currently working on growung my techical skills in Data Analysis, Business Analysis and Product Management 
+- 🔭 I’m currently working on growing my technical skills in Data Analysis, Business Analysis, Product Management and AWS Cloud
 - 🌱 I’m currently learning Data Analysis using Cloud Technologies
 - 👯 I’m looking to collaborate on Data Analysis and Product Management 
 - 💬 Ask me about Data Analysis, Banking, Product Management
