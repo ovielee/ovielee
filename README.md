@@ -9,3 +9,17 @@ Oviemuno Oke
 - 📫 How to reach me: https://www.linkedin.com/in/ovie-oke
 - ⚡ Fun fact: ...🤔🤔🤔🤔🤔
 -->
+💻 Tech Stack:
+AWS Azure Python Java WordPress Apache Kafka Jenkins Nginx AmazonDynamoDB MongoDB MySQL Figma Framer GitLab CI GitHub Actions Git GitHub GitLab
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+🏆 GitHub Trophies
+
+
