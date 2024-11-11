@@ -10,9 +10,9 @@ Oviemuno Oke
 - ⚡ Fun fact: ...🤔🤔🤔🤔🤔
 -->
 💻 Tech Stack:
-AWS Azure Python Java WordPress Apache Kafka Jenkins Nginx AmazonDynamoDB MongoDB MySQL Figma Framer GitLab CI GitHub Actions Git GitHub GitLab
+- AWS Azure Python Java WordPress Apache Kafka Jenkins Nginx AmazonDynamoDB MongoDB MySQL Figma Framer GitLab CI GitHub Actions Git GitHub GitLab
 
-📊 GitHub Stats:
+- 📊 GitHub Stats:
 
 
 
